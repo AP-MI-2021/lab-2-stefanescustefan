@@ -40,7 +40,7 @@ def get_base_2(n):
     """
     Transforma un numar dat in baza 10 in baza 2
 
-    :param n: un numar natural
+    :param n: Un numar natural
     :return: Reprezentarea in baza 2 a numarului n
     """
     x = int(n)
